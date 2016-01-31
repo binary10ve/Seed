@@ -1,5 +1,6 @@
 'use strict';
-angular.module('EL_DashboardMD')
+angular
+  .module('EL_DashboardMD')
   .service('EL_DashboardSV', [ function () {
 
   }]);
