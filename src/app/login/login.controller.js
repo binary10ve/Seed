@@ -6,16 +6,16 @@ angular.module('EL_LoginMD')
 
     _initialize();
 
-    /** Scope Methods Implementation **/
+    /** Scope Methods **/
 
     function doLogin(){
       // Do Login Here
     }
 
-    /** Scope Methods Implementation Ends **/
+    /** Scope Methods Ends **/
 
 
-    /** Private Methods Implementation **/
+    /** Private Methods **/
 
     function _initialize(){
       // Initialization Code goes Here
@@ -26,7 +26,7 @@ angular.module('EL_LoginMD')
       // Do Remember me Checks Here
     }
 
-    /** Private Methods Implementation Ends **/
+    /** Private Methods  Ends **/
 
 
   }]);

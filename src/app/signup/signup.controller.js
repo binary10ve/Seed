@@ -8,22 +8,22 @@ angular
 
     _initialize();
 
-    /** Scope Methods Implementation **/
+    /** Scope Methods **/
 
     function doSignUp(){
       // Do Signup Here
     }
 
-    /** Scope Methods Implementation Ends **/
+    /** Scope Methods Ends **/
 
 
-    /** Private Methods Implementation **/
+    /** Private Methods **/
 
     function _initialize(){
      // Initialization Code goes Here
     }
 
-    /** Private Methods Implementation Ends **/
+    /** Private Methods Ends **/
 
 
 

@@ -7,20 +7,21 @@ angular
 
     _initialize();
 
-    /** Scope Methods Implementation **/
+    /** Scope Methods **/
 
     function refreshDashboard(){
       // Do Login Here
     }
 
-    /** Scope Methods Implementation Ends **/
+    /** Scope Methods Ends **/
 
 
-    /** Private Methods Implementation **/
+    /** Private Methods **/
 
     function _initialize(){
       // Initialization Code goes Here
       _getUpcomingEvents();
+      _getFeeds();
     }
     function _getUpcomingEvents(){
       // Fetch Upcoming Events Here
@@ -30,7 +31,7 @@ angular
       // Fetch Feeds Here
     }
 
-    /** Private Methods Implementation Ends **/
+    /** Private Methods  Ends **/
 
 
   }]);
