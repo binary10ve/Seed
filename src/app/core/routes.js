@@ -11,7 +11,7 @@ angular.module('EventLootMD')
           templateUrl : 'app/components/footer/footer.html'
         },
         '' : {
-          template: '<div ui-view="header"></div><div ui-view></div><div ui-view="footer"></div>'
+          templateUrl: 'app/components/main/main.html'
         }
       }
     })
